@@ -46,3 +46,5 @@ La logique empêche de poser la même question plusieurs fois de suite pour amé
 Tests Unitaires
 
 Des tests JUnit sont inclus pour vérifier la logique de devinette de capitale et assurer son bon fonctionnement.
+
+NB : J'ai ajouté mon fichier countries.sql pour plus d'informations sur ma base de données ainsi que sur les tables score et player que j'ai ajoutées.
